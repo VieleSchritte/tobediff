@@ -25,7 +25,7 @@ SECRET_KEY = 'b7zu!(ipo50^v+73joz#_4kq_vnoujpq8d1e^-=&x@2!c+37!w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<tobediff>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'tobediff.pythonanywhere.com']
 
 
 # Application definition
